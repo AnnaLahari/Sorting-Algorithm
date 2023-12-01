@@ -60,7 +60,9 @@ print(list_of_nums)
 ```
 
 ## Output:
+
 ![image](https://github.com/AnnaLahari/Sorting-Algorithm/assets/149365425/4a61ca85-7c71-45b9-bd42-1f70e789faad)
+
 ![image](https://github.com/AnnaLahari/Sorting-Algorithm/assets/149365425/58869e9d-e7b0-44b8-b0b1-f07f0e98c071)
 
 
